@@ -7,7 +7,7 @@ int usage(int code)
            "Copyright Jiang Xin <jiangxin AT ossxp DOT com>, 2009.\n"
            "\n"
            "Usage:\n"
-           "    hello\n"
+           "    hello ---\n"
            "            say hello to the world.\n\n"
            "    hello <username>\n"
            "            say hi to the user.\n\n"
